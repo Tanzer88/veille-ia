@@ -2,140 +2,140 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Le Levier IA</title>
-<link>https://evolvia-agency.github.io/veille-ia/</link>
-<atom:link href="https://evolvia-agency.github.io/veille-ia/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://levier-ia.lucienn8n.duckdns.org/</link>
+<atom:link href="https://levier-ia.lucienn8n.duckdns.org/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Toute l'actualité de l'IA qui compte, trois fois par semaine, en quelques minutes.</description>
 <language>fr</language>
 <item>
 <title>OpenAI lance GPT-6 Cyber ; l'IA chute en Bourse après les midterms</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-11-06/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-11-06/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-11-06/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-11-06/</guid>
 <pubDate>Fri, 06 Nov 2026 19:20:02 +0000</pubDate>
 <description>Le modèle de cybersécurité d'OpenAI, la tech secouée en Bourse, Gemini Omni 1.2 Flash, Claude et vos comptes bancaires, l'agent de Perplexity.</description>
 </item>
 <item>
 <title>Mistral Large 4 en libre accès — Copilot mémorise vos préférences</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-30/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-30/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-30/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-30/</guid>
 <pubDate>Fri, 30 Oct 2026 12:00:12 +0000</pubDate>
 <description>Poids ouverts pour le modèle français ; GitHub lance la mémoire persistante et les automatisations partagées.</description>
 </item>
 <item>
 <title>GitHub Universe : les agents s'invitent dans vos workflows de code</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-29/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-29/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-29/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-29/</guid>
 <pubDate>Thu, 29 Oct 2026 12:00:01 +0000</pubDate>
 <description>Agentic Workflows en GA, Slack Code API ouverte, Copilot dans Enterprise — ce qui change cette semaine.</description>
 </item>
 <item>
 <title>GPT-6.1 Terra dans Copilot, n8n 3.0 en bêta : semaine chargée</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-28/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-28/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-28/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-28/</guid>
 <pubDate>Wed, 28 Oct 2026 12:00:18 +0000</pubDate>
 <description>Nouveau modèle OpenAI pour le code, n8n 3.0 bêta et contrôle de coûts IA chez Salesforce.</description>
 </item>
 <item>
 <title>Agent Skills devient un standard ouvert ; voix IA, agents et données privées</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-23/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-23/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-23/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-23/</guid>
 <pubDate>Fri, 23 Oct 2026 12:00:16 +0000</pubDate>
 <description>Anthropic ouvre Agent Skills à une fondation ; Polly gagne 14 voix ; n8n aide à fiabiliser vos agents.</description>
 </item>
 <item>
 <title>Claude Duet : l'agent proactif d'Anthropic est en préversion</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-22/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-22/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-22/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-22/</guid>
 <pubDate>Thu, 22 Oct 2026 12:00:06 +0000</pubDate>
 <description>Aussi : Docs Live dicte vos docs en déplacement, et un cas concret d'automatisation du recrutement.</description>
 </item>
 <item>
 <title>Pare-feu GitHub, agents IA sur Smartsheet et ChatGPT Work en pratique</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-21/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-21/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-21/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-21/</guid>
 <pubDate>Wed, 21 Oct 2026 12:00:09 +0000</pubDate>
 <description>Pare-feu GitHub, agents IA sur Smartsheet, et un franchisé qui gagne 95 % de temps sur ses menus.</description>
 </item>
 <item>
 <title>Copilot : pilotez vos modèles IA par API, récaps Meet et analyse vidéo</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-20/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-20/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-20/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-20/</guid>
 <pubDate>Tue, 20 Oct 2026 12:00:04 +0000</pubDate>
 <description>API Copilot pour contrôler les modèles IA en organisation, résumés Meet dans Chat, Pegasus 1.5 sur Bedrock.</description>
 </item>
 <item>
 <title>Agent IA en production : les échecs silencieux sont les plus dangereux</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-19/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-19/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-19/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-19/</guid>
 <pubDate>Mon, 19 Oct 2026 12:00:21 +0000</pubDate>
 <description>Évaluation structurée des agents, recettes ADK de Google, et un modèle de code open-weight à héberger soi-même.</description>
 </item>
 <item>
 <title>Gmail AI Inbox déployé · Beam en open source · Positive MCP</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-17/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-17/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-17/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-17/</guid>
 <pubDate>Sat, 17 Oct 2026 12:00:19 +0000</pubDate>
 <description>L'IA dans votre boîte mail Workspace, dans votre dépôt GitHub et dans vos campagnes marketing.</description>
 </item>
 <item>
 <title>Figma ouvre le code, Gemini 4 Argon monte en prix le 1er déc.</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-15/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-15/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-15/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-15/</guid>
 <pubDate>Thu, 15 Oct 2026 12:00:08 +0000</pubDate>
 <description>Figma code layers en open beta, HydraFusion Max, MCP dans Apigee hybrid, et une fenêtre courte sur l'API Argon.</description>
 </item>
 <item>
 <title>Gemini 4 Argon est accessible : ce que ça change pour votre flux</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-14/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-14/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-14/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-14/</guid>
 <pubDate>Wed, 14 Oct 2026 12:00:08 +0000</pubDate>
 <description>Disponible via API dès hier — plus Facebook qui adapte votre fil en temps réel selon vos mots</description>
 </item>
 <item>
 <title>Muse Wonder accessible aux développeurs — outils et cas pratiques</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-13/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-13/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-13/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-13/</guid>
 <pubDate>Tue, 13 Oct 2026 12:00:08 +0000</pubDate>
 <description>Meta lance son modèle frontier; Google Meet automatise vos suivis post-réunion; n8n 2.44 renforce la gouvernance.</description>
 </item>
 <item>
 <title>Agents IA : votre prochaine interface client arrive</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-12/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-12/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-12/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-12/</guid>
 <pubDate>Mon, 12 Oct 2026 12:00:03 +0000</pubDate>
 <description>Salesforce analyse le tournant, Copilot pour JetBrains se met à jour, et une suite marketing ouvre ses portes aux agents.</description>
 </item>
 <item>
 <title>Google unifie Workspace, Slack et M365 dans un seul agent Gemini</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-09/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-09/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-09/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-09/</guid>
 <pubDate>Fri, 09 Oct 2026 12:00:08 +0000</pubDate>
 <description>Agent Gemini pour l'entreprise, Copilot sandbox en GA, EmbeddingGemma 2 open source et agent Figma</description>
 </item>
 <item>
 <title>Markdown natif dans Google Docs : ce que ça change pour vos flux IA</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-06/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-06/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-06/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-06/</guid>
 <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 <description>Aussi : GLM 5.3 sur Bedrock, ReviewBench pour évaluer la revue de code IA, alertes sur les agents autonomes.</description>
 </item>
 <item>
 <title>Workflows Copilot multi-agents — et pourquoi vos agents déclarent avoir réussi</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-04/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-04/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-04/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-04/</guid>
 <pubDate>Sun, 04 Oct 2026 12:00:02 +0000</pubDate>
 <description>Orchestration multi-agents Copilot, fiabilité des agents IA et données QuickSight en direct : l'essentiel de la semaine.</description>
 </item>
 <item>
 <title>Copilot code review dans vos pipelines CI/CD — c'est disponible</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-03/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-03/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-03/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-03/</guid>
 <pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
 <description>Revue de code via API, Copilot sur les apps bureau, Ultrafast d'OpenAI, Gemini connecté à 9 000 outils</description>
 </item>
 <item>
 <title>GPT-6.1 Sol, l'agent Muse pour les PME et les skills de Gemini</title>
-<link>https://evolvia-agency.github.io/veille-ia/2026-10-01/</link>
-<guid isPermaLink="true">https://evolvia-agency.github.io/veille-ia/2026-10-01/</guid>
+<link>https://levier-ia.lucienn8n.duckdns.org/2026-10-01/</link>
+<guid isPermaLink="true">https://levier-ia.lucienn8n.duckdns.org/2026-10-01/</guid>
 <pubDate>Thu, 01 Oct 2026 05:20:07 +0000</pubDate>
 <description>Un modèle haut de gamme moins cher, un agent ouvert aux petites entreprises au Canada, et un cas pratique Google Docs.</description>
 </item>

@@ -1,13 +1,13 @@
 {
  "version": 1,
  "publication": "Le Levier IA",
- "generated_at": "2026-11-06T19:20:02+00:00",
- "site": "https://evolvia-agency.github.io/veille-ia",
+ "generated_at": "2026-11-06T19:22:35+00:00",
+ "site": "https://levier-ia.lucienn8n.duckdns.org",
  "editions": [
   {
    "date": "2026-11-06",
    "subject": "OpenAI lance GPT-6 Cyber ; l'IA chute en Bourse après les midterms",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/",
    "items": [
     {
      "id": "2026-11-06-C1",
@@ -50,7 +50,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#actualite-majeure"
     },
     {
      "id": "2026-11-06-C2",
@@ -93,7 +93,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#nouveaute-1"
     },
     {
      "id": "2026-11-06-C6",
@@ -143,7 +143,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#nouveaute-2"
     },
     {
      "id": "2026-11-06-C4",
@@ -179,7 +179,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#nouveaute-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#nouveaute-3"
     },
     {
      "id": "2026-11-06-R1",
@@ -201,7 +201,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#depot-github"
     },
     {
      "id": "2026-11-06-C20",
@@ -230,7 +230,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#bref-1"
     },
     {
      "id": "2026-11-06-C3",
@@ -266,7 +266,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#bref-2"
     },
     {
      "id": "2026-11-06-C15",
@@ -288,7 +288,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#bref-3"
     },
     {
      "id": "2026-11-06-C21",
@@ -310,7 +310,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#bref-4"
     },
     {
      "id": "2026-11-06-C14",
@@ -339,7 +339,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#bref-5"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#bref-5"
     },
     {
      "id": "2026-11-06-C22",
@@ -361,7 +361,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#bref-6"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#bref-6"
     },
     {
      "id": "2026-11-06-C7",
@@ -390,7 +390,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#bref-7"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#bref-7"
     },
     {
      "id": "2026-11-06-C5",
@@ -426,14 +426,14 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-11-06/#bref-8"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-11-06/#bref-8"
     }
    ]
   },
   {
    "date": "2026-10-30",
    "subject": "Mistral Large 4 en libre accès — Copilot mémorise vos préférences",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/",
    "items": [
     {
      "id": "2026-10-30-C6",
@@ -462,7 +462,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/#actualite-majeure"
     },
     {
      "id": "2026-10-30-C11",
@@ -484,7 +484,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/#nouveaute-1"
     },
     {
      "id": "2026-10-30-C12",
@@ -506,7 +506,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/#nouveaute-2"
     },
     {
      "id": "2026-10-30-C3",
@@ -528,7 +528,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/#cas-usage"
     },
     {
      "id": "2026-10-30-R2",
@@ -550,7 +550,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/#depot-github"
     },
     {
      "id": "2026-10-30-C14",
@@ -586,7 +586,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/#bref-1"
     },
     {
      "id": "2026-10-30-C5",
@@ -608,7 +608,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/#bref-2"
     },
     {
      "id": "2026-10-30-C9",
@@ -630,7 +630,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/#bref-3"
     },
     {
      "id": "2026-10-30-C1",
@@ -652,14 +652,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-30/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-30/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-29",
    "subject": "GitHub Universe : les agents s'invitent dans vos workflows de code",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/",
    "items": [
     {
      "id": "2026-10-29-C2",
@@ -681,7 +681,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#actualite-majeure"
     },
     {
      "id": "2026-10-29-C1",
@@ -703,7 +703,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#nouveaute-1"
     },
     {
      "id": "2026-10-29-C3",
@@ -725,7 +725,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#nouveaute-2"
     },
     {
      "id": "2026-10-29-C12",
@@ -747,7 +747,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#nouveaute-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#nouveaute-3"
     },
     {
      "id": "2026-10-29-C5",
@@ -776,7 +776,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#cas-usage"
     },
     {
      "id": "2026-10-29-R1",
@@ -798,7 +798,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#depot-github"
     },
     {
      "id": "2026-10-29-C7",
@@ -820,7 +820,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#bref-1"
     },
     {
      "id": "2026-10-29-C9",
@@ -842,7 +842,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#bref-2"
     },
     {
      "id": "2026-10-29-C16",
@@ -864,7 +864,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#bref-3"
     },
     {
      "id": "2026-10-29-C14",
@@ -886,14 +886,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-29/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-29/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-28",
    "subject": "GPT-6.1 Terra dans Copilot, n8n 3.0 en bêta : semaine chargée",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/",
    "items": [
     {
      "id": "2026-10-28-C1",
@@ -922,7 +922,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/#actualite-majeure"
     },
     {
      "id": "2026-10-28-C5",
@@ -944,7 +944,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/#nouveaute-1"
     },
     {
      "id": "2026-10-28-C2",
@@ -966,7 +966,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/#nouveaute-2"
     },
     {
      "id": "2026-10-28-C12",
@@ -995,7 +995,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/#cas-usage"
     },
     {
      "id": "2026-10-28-R1",
@@ -1017,7 +1017,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/#depot-github"
     },
     {
      "id": "2026-10-28-C17",
@@ -1046,7 +1046,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/#bref-1"
     },
     {
      "id": "2026-10-28-C7",
@@ -1068,7 +1068,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/#bref-2"
     },
     {
      "id": "2026-10-28-C11",
@@ -1090,7 +1090,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/#bref-3"
     },
     {
      "id": "2026-10-28-C4",
@@ -1112,14 +1112,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-28/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-28/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-23",
    "subject": "Agent Skills devient un standard ouvert ; voix IA, agents et données privées",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/",
    "items": [
     {
      "id": "2026-10-23-C2",
@@ -1148,7 +1148,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#actualite-majeure"
     },
     {
      "id": "2026-10-23-C3",
@@ -1170,7 +1170,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#nouveaute-1"
     },
     {
      "id": "2026-10-23-C9",
@@ -1192,7 +1192,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#nouveaute-2"
     },
     {
      "id": "2026-10-23-C11",
@@ -1214,7 +1214,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#nouveaute-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#nouveaute-3"
     },
     {
      "id": "2026-10-23-C13",
@@ -1243,7 +1243,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#cas-usage"
     },
     {
      "id": "2026-10-23-R1",
@@ -1265,7 +1265,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#depot-github"
     },
     {
      "id": "2026-10-23-C1",
@@ -1294,7 +1294,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#bref-1"
     },
     {
      "id": "2026-10-23-C4",
@@ -1316,7 +1316,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#bref-2"
     },
     {
      "id": "2026-10-23-C12",
@@ -1338,7 +1338,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#bref-3"
     },
     {
      "id": "2026-10-23-C10",
@@ -1360,14 +1360,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-23/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-23/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-22",
    "subject": "Claude Duet : l'agent proactif d'Anthropic est en préversion",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/",
    "items": [
     {
      "id": "2026-10-22-C4",
@@ -1403,7 +1403,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/#actualite-majeure"
     },
     {
      "id": "2026-10-22-C10",
@@ -1425,7 +1425,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/#nouveaute-1"
     },
     {
      "id": "2026-10-22-C17",
@@ -1447,7 +1447,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/#nouveaute-2"
     },
     {
      "id": "2026-10-22-C6",
@@ -1469,7 +1469,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/#nouveaute-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/#nouveaute-3"
     },
     {
      "id": "2026-10-22-C5",
@@ -1491,7 +1491,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/#cas-usage"
     },
     {
      "id": "2026-10-22-R1",
@@ -1513,7 +1513,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/#depot-github"
     },
     {
      "id": "2026-10-22-C9",
@@ -1535,7 +1535,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/#bref-1"
     },
     {
      "id": "2026-10-22-C13",
@@ -1557,7 +1557,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/#bref-2"
     },
     {
      "id": "2026-10-22-C7",
@@ -1579,14 +1579,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-22/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-22/#bref-3"
     }
    ]
   },
   {
    "date": "2026-10-21",
    "subject": "Pare-feu GitHub, agents IA sur Smartsheet et ChatGPT Work en pratique",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/",
    "items": [
     {
      "id": "2026-10-21-C3",
@@ -1608,7 +1608,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/#actualite-majeure"
     },
     {
      "id": "2026-10-21-C1",
@@ -1630,7 +1630,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/#nouveaute-1"
     },
     {
      "id": "2026-10-21-C18",
@@ -1652,7 +1652,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/#nouveaute-2"
     },
     {
      "id": "2026-10-21-C12",
@@ -1674,7 +1674,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/#nouveaute-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/#nouveaute-3"
     },
     {
      "id": "2026-10-21-R1",
@@ -1696,7 +1696,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/#depot-github"
     },
     {
      "id": "2026-10-21-C7",
@@ -1718,7 +1718,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/#bref-1"
     },
     {
      "id": "2026-10-21-C17",
@@ -1740,7 +1740,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/#bref-2"
     },
     {
      "id": "2026-10-21-C9",
@@ -1762,7 +1762,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/#bref-3"
     },
     {
      "id": "2026-10-21-C8",
@@ -1784,14 +1784,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-21/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-21/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-20",
    "subject": "Copilot : pilotez vos modèles IA par API, récaps Meet et analyse vidéo",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/",
    "items": [
     {
      "id": "2026-10-20-C1",
@@ -1813,7 +1813,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/#actualite-majeure"
     },
     {
      "id": "2026-10-20-C11",
@@ -1835,7 +1835,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/#nouveaute-1"
     },
     {
      "id": "2026-10-20-C9",
@@ -1857,7 +1857,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/#nouveaute-2"
     },
     {
      "id": "2026-10-20-C5",
@@ -1879,7 +1879,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/#nouveaute-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/#nouveaute-3"
     },
     {
      "id": "2026-10-20-C6",
@@ -1908,7 +1908,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/#cas-usage"
     },
     {
      "id": "2026-10-20-C17",
@@ -1930,7 +1930,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/#bref-1"
     },
     {
      "id": "2026-10-20-C16",
@@ -1952,7 +1952,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/#bref-2"
     },
     {
      "id": "2026-10-20-C3",
@@ -1974,7 +1974,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/#bref-3"
     },
     {
      "id": "2026-10-20-C12",
@@ -1996,14 +1996,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-20/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-20/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-19",
    "subject": "Agent IA en production : les échecs silencieux sont les plus dangereux",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/",
    "items": [
     {
      "id": "2026-10-19-C2",
@@ -2025,7 +2025,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/#actualite-majeure"
     },
     {
      "id": "2026-10-19-C7",
@@ -2047,7 +2047,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/#nouveaute-1"
     },
     {
      "id": "2026-10-19-C9",
@@ -2069,7 +2069,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/#nouveaute-2"
     },
     {
      "id": "2026-10-19-C5",
@@ -2098,7 +2098,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/#cas-usage"
     },
     {
      "id": "2026-10-19-R3",
@@ -2120,7 +2120,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/#depot-github"
     },
     {
      "id": "2026-10-19-C1",
@@ -2149,7 +2149,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/#bref-1"
     },
     {
      "id": "2026-10-19-C16",
@@ -2171,7 +2171,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/#bref-2"
     },
     {
      "id": "2026-10-19-C11",
@@ -2193,7 +2193,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/#bref-3"
     },
     {
      "id": "2026-10-19-C8",
@@ -2215,14 +2215,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-19/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-19/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-17",
    "subject": "Gmail AI Inbox déployé · Beam en open source · Positive MCP",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-17/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-17/",
    "items": [
     {
      "id": "2026-10-17-C12",
@@ -2244,7 +2244,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-17/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-17/#actualite-majeure"
     },
     {
      "id": "2026-10-17-C8",
@@ -2266,7 +2266,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-17/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-17/#nouveaute-1"
     },
     {
      "id": "2026-10-17-C3",
@@ -2288,7 +2288,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-17/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-17/#nouveaute-2"
     },
     {
      "id": "2026-10-17-R1",
@@ -2310,7 +2310,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-17/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-17/#depot-github"
     },
     {
      "id": "2026-10-17-C1",
@@ -2339,7 +2339,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-17/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-17/#bref-1"
     },
     {
      "id": "2026-10-17-C7",
@@ -2361,7 +2361,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-17/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-17/#bref-2"
     },
     {
      "id": "2026-10-17-C16",
@@ -2383,7 +2383,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-17/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-17/#bref-3"
     },
     {
      "id": "2026-10-17-C13",
@@ -2405,14 +2405,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-17/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-17/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-15",
    "subject": "Figma ouvre le code, Gemini 4 Argon monte en prix le 1er déc.",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/",
    "items": [
     {
      "id": "2026-10-15-C8",
@@ -2434,7 +2434,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/#actualite-majeure"
     },
     {
      "id": "2026-10-15-C5",
@@ -2456,7 +2456,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/#nouveaute-1"
     },
     {
      "id": "2026-10-15-C6",
@@ -2478,7 +2478,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/#nouveaute-2"
     },
     {
      "id": "2026-10-15-C4",
@@ -2507,7 +2507,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/#cas-usage"
     },
     {
      "id": "2026-10-15-R3",
@@ -2529,7 +2529,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/#depot-github"
     },
     {
      "id": "2026-10-15-C1",
@@ -2551,7 +2551,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/#bref-1"
     },
     {
      "id": "2026-10-15-C9",
@@ -2573,7 +2573,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/#bref-2"
     },
     {
      "id": "2026-10-15-C16",
@@ -2595,7 +2595,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/#bref-3"
     },
     {
      "id": "2026-10-15-C17",
@@ -2617,14 +2617,14 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-15/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-15/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-14",
    "subject": "Gemini 4 Argon est accessible : ce que ça change pour votre flux",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/",
    "items": [
     {
      "id": "2026-10-14-C4",
@@ -2660,7 +2660,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#actualite-majeure"
     },
     {
      "id": "2026-10-14-C3",
@@ -2689,7 +2689,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#nouveaute-1"
     },
     {
      "id": "2026-10-14-C6",
@@ -2711,7 +2711,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#nouveaute-2"
     },
     {
      "id": "2026-10-14-C12",
@@ -2733,7 +2733,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#nouveaute-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#nouveaute-3"
     },
     {
      "id": "2026-10-14-C7",
@@ -2755,7 +2755,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#cas-usage"
     },
     {
      "id": "2026-10-14-R3",
@@ -2777,7 +2777,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#depot-github"
     },
     {
      "id": "2026-10-14-C2",
@@ -2799,7 +2799,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#bref-1"
     },
     {
      "id": "2026-10-14-C8",
@@ -2821,7 +2821,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#bref-2"
     },
     {
      "id": "2026-10-14-C9",
@@ -2843,7 +2843,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#bref-3"
     },
     {
      "id": "2026-10-14-C17",
@@ -2865,14 +2865,14 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-14/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-14/#bref-4"
     }
    ]
   },
   {
    "date": "2026-10-13",
    "subject": "Muse Wonder accessible aux développeurs — outils et cas pratiques",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-13/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-13/",
    "items": [
     {
      "id": "2026-10-13-C1",
@@ -2908,7 +2908,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-13/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-13/#actualite-majeure"
     },
     {
      "id": "2026-10-13-C6",
@@ -2930,7 +2930,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-13/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-13/#nouveaute-1"
     },
     {
      "id": "2026-10-13-C2",
@@ -2952,7 +2952,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-13/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-13/#nouveaute-2"
     },
     {
      "id": "2026-10-13-C3",
@@ -2974,7 +2974,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-13/#nouveaute-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-13/#nouveaute-3"
     },
     {
      "id": "2026-10-13-C4",
@@ -2996,7 +2996,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-13/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-13/#cas-usage"
     },
     {
      "id": "2026-10-13-R3",
@@ -3018,7 +3018,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-13/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-13/#depot-github"
     },
     {
      "id": "2026-10-13-C13",
@@ -3054,7 +3054,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-13/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-13/#bref-1"
     },
     {
      "id": "2026-10-13-C15",
@@ -3076,14 +3076,14 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-13/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-13/#bref-2"
     }
    ]
   },
   {
    "date": "2026-10-12",
    "subject": "Agents IA : votre prochaine interface client arrive",
-   "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/",
+   "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/",
    "items": [
     {
      "id": "2026-10-12-C1",
@@ -3105,7 +3105,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/#actualite-majeure"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/#actualite-majeure"
     },
     {
      "id": "2026-10-12-C2",
@@ -3127,7 +3127,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/#nouveaute-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/#nouveaute-1"
     },
     {
      "id": "2026-10-12-C5",
@@ -3149,7 +3149,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/#nouveaute-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/#nouveaute-2"
     },
     {
      "id": "2026-10-12-cas-usage",
@@ -3171,7 +3171,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/#cas-usage"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/#cas-usage"
     },
     {
      "id": "2026-10-12-R3",
@@ -3193,7 +3193,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/#depot-github"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/#depot-github"
     },
     {
      "id": "2026-10-12-C3",
@@ -3215,7 +3215,7 @@
        "tier": "primary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/#bref-1"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/#bref-1"
     },
     {
      "id": "2026-10-12-C8",
@@ -3237,7 +3237,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/#bref-2"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/#bref-2"
     },
     {
      "id": "2026-10-12-C9",
@@ -3259,7 +3259,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/#bref-3"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/#bref-3"
     },
     {
      "id": "2026-10-12-C13",
@@ -3281,7 +3281,7 @@
        "tier": "secondary"
       }
      ],
-     "url": "https://evolvia-agency.github.io/veille-ia/2026-10-12/#bref-4"
+     "url": "https://levier-ia.lucienn8n.duckdns.org/2026-10-12/#bref-4"
     }
    ]
   }
