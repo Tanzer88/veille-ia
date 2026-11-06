@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agent IA en production : les échecs silencieux sont les plus dangereux (lundi 19 octobre 2026) – Le Levier IA</title>
+<meta name="description" content="Évaluation structurée des agents, recettes ADK de Google, et un modèle de code open-weight à héberger soi-même.">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://evolvia-agency.github.io/veille-ia/2026-10-19/">
+<meta property="og:site_name" content="Le Levier IA">
+<meta property="og:locale" content="fr_CA">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Agent IA en production : les échecs silencieux sont les plus dangereux">
+<meta property="og:description" content="Évaluation structurée des agents, recettes ADK de Google, et un modèle de code open-weight à héberger soi-même.">
+<meta property="og:url" content="https://evolvia-agency.github.io/veille-ia/2026-10-19/">
+<meta property="og:image" content="https://evolvia-agency.github.io/veille-ia/partage.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Le Levier IA&nbsp;: Toute l'actualité de l'IA qui compte, trois fois par semaine, en quelques minutes.">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="article:published_time" content="2026-10-19T12:00:21+00:00">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f6f8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#10151c" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" href="/icone.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="stylesheet" href="../style.css">
+<link rel="alternate" type="application/rss+xml" title="Le Levier IA" href="https://evolvia-agency.github.io/veille-ia/feed.xml">
+<script src="../app.js" defer></script>
+</head>
+<body data-page="edition" data-root="../" data-timezone="America/Toronto" data-publish-time="08:00">
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="masthead">
+  <div class="wrap masthead-row">
+    <a class="brand" href="../" translate="no">
+      <svg class="brand-mark" viewBox="0 0 28 20" width="28" height="20" aria-hidden="true" focusable="false"><path class="lever" d="M1 13.5 27 5.5" /><path class="pivot" d="M11 11.3 15.5 19h-9z" /></svg>
+      <span>Le Levier IA</span>
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="../">Dernière édition</a>
+      <a href="../archives/">Archives</a>
+      <a href="../rubriques/">Rubriques</a>
+      <a href="../methode/">Méthode</a>
+<a href="../feed.xml">RSS</a>    </nav>
+  </div>
+</header>
+<main id="contenu" class="wrap main" tabindex="-1">
+<div class="edition-layout">
+<article class="edition" aria-labelledby="titre-2026-10-19" data-edition-date="2026-10-19">
+  <header class="edition-head">
+    <p class="dateline"><time datetime="2026-10-19"><span class="dateline-day">Lundi 19 octobre 2026</span></time></p>
+    <h1 id="titre-2026-10-19">Agent IA en production : les échecs silencieux sont les plus dangereux</h1>
+    <p class="lede">Quand un agent IA échoue en production, il le fait souvent sans bruit : AWS illustre comment une seule erreur de paramètre peut faire chuter un taux de conformité de 78 % à 38 %. Google ADK publie un dépôt de recettes validées pour accélérer le développement d'agents, et Anthropic annonce un fonds dédié à l'intérêt général doté de 5 % de ses actions.</p>
+    <p class="edition-facts">6 min de lecture, 11 sources citées<span class="facts-sep" aria-hidden="true"> · </span><a class="share-jump" href="#partager-2026-10-19" data-share-jump>Partager</a></p>
+    <details class="verif">
+      <summary>Vérifiée avant parution&nbsp;: 7 sources primaires sur 11, 11 liens sur 11 joignables</summary>
+      <ul>
+<li>Contrôle sans erreur (sources, dates, chiffres, doublons, statuts)</li><li>Dossier de sources préparé le jour même</li><li>11 liens cités vérifiés</li><li>Aucun avertissement bloquant</li>        <li>Édition rédigée par le modèle claude-sonnet-4-6 via Claude Code, à partir du dossier de sources.</li>
+        <li>Publication&nbsp;: automatique.</li>
+      </ul>
+      <p>Ces contrôles vérifient que chaque affirmation s’appuie sur une source citée ; ils ne garantissent pas que la source dise vrai. <a href="../methode/">Détail de la méthode</a></p>
+    </details>
+  </header>
+
+  <nav class="toc" aria-label="Sommaire de l’édition">
+    <h2 class="toc-title">Sommaire</h2>
+    <ol>
+<li><a href="#actualite-majeure">L'actualité majeure</a></li><li><a href="#nouveautes">Nouveautés utiles</a></li><li><a href="#cas-usage">Cas d'usage</a></li><li><a href="#depot-github">Le dépôt GitHub</a></li><li><a href="#en-bref">En bref</a></li><li><a href="#sources">Sources</a></li>    </ol>
+  </nav>
+
+  <section class="block" id="actualite-majeure" aria-labelledby="h-majeure-2026-10-19">
+    <h2 class="rubric" id="h-majeure-2026-10-19">L’actualité majeure</h2>
+    <h3 class="item-title">Agents IA en production : comment éviter les dégradations silencieuses</h3>
+    <p class="item-meta"><span class="status st-ok">Accessible</span><span>Annoncé le 16 octobre 2026</span></p>
+
+    <p><strong class="runin">Ce qui change.</strong> AWS a publié sur son blog un cadre d'évaluation structurée pour les agents IA en production, illustré de défaillances documentées : un agent a renvoyé le revenu trimestriel d'un client (410,08 dollars) comme « 410,08 millions de dollars » ; un simple décalage de fenêtre temporelle a fait chuter un taux de conformité de 78 % à 38 % lors d'un test pré-production. Le billet décrit comment combiner Amazon Bedrock AgentCore Evaluations, des guardrails, un monitoring CloudWatch et des tableaux de bord pour détecter ces écarts avant qu'ils atteignent les clients.</p>
+    <p><strong class="runin">Pourquoi c’est important.</strong> La plupart des petites équipes valident leurs agents à la main sur quelques exemples. Cette approche ne détecte pas les régressions progressives. Poser des critères vérifiables dès le départ — entrée attendue, action, format de sortie, délai — et automatiser leur vérification permet d'éviter des erreurs coûteuses en production, quelle que soit la plateforme utilisée.</p>
+    <p><strong class="runin">Limites.</strong> Le cadre décrit s'appuie sur des services AWS (Bedrock AgentCore, CloudWatch, S3, Redshift, Amazon Quick). Les principes sont transposables à d'autres infrastructures, mais les outils spécifiques supposent un environnement AWS. La disponibilité de certains services Bedrock AgentCore selon la région n'est pas précisée dans la source. Prix non précisé par la source.</p>
+    <p class="src">Sources&nbsp;: <a class="ref" href="#src-2026-10-19-1" aria-label="Source 1 : AWS — Machine Learning Blog">1</a></p>
+  </section>
+
+  <section class="block" id="nouveautes" aria-labelledby="h-nouveautes-2026-10-19">
+    <h2 class="rubric" id="h-nouveautes-2026-10-19">Nouveautés utiles</h2>
+    <article class="item" id="nouveaute-1" aria-labelledby="t-nouveaute-1-2026-10-19">
+      <h3 class="item-title" id="t-nouveaute-1-2026-10-19">google/adk-recipes : recettes d'agents validées pour Google ADK</h3>
+      <p class="item-meta"><span class="status st-ok">Accessible</span><span>Annoncé le 15 octobre 2026</span></p>
+
+      <p><strong class="runin">Ce que c’est.</strong> google/adk-recipes est un dépôt de recettes prêtes à l'emploi pour le Agent Development Kit (ADK) de Google. Chaque recette inclut un manifest.yaml validé, un fichier AGENTS.md qui explique à un assistant de code comment utiliser la recette, et (pour les contributions) un Dockerfile et un test d'exécutabilité. L'intégration continue applique les standards à chaque pull request.</p>
+      <p><strong class="runin">Pour quoi faire.</strong> Une agence qui construit des agents avec Google ADK peut partir de recettes validées plutôt que d'une page blanche, et utiliser les skills intégrés (prepare-python-recipe, generate-manifest, github-pr-review) pour accélérer la création et la soumission de nouvelles recettes via un assistant de code.</p>
+      <p><strong class="runin">Prix.</strong> non précisé par la source</p>
+      <p><strong class="runin">Limites.</strong> Spécifique à l'écosystème Google ADK. Requiert une familiarité avec le développement d'agents. Les fichiers AGENTS.md et manifest.yaml sont écrits principalement pour les assistants de code, pas pour les humains.</p>
+      <p class="src">Sources&nbsp;: <a class="ref" href="#src-2026-10-19-2" aria-label="Source 2 : Google Developers Blog">2</a></p>
+    </article>
+    <article class="item" id="nouveaute-2" aria-labelledby="t-nouveaute-2-2026-10-19">
+      <h3 class="item-title" id="t-nouveaute-2-2026-10-19">Muse Spark Open disponible sur Amazon SageMaker JumpStart</h3>
+      <p class="item-meta"><span class="status st-ok">Accessible</span><span>Annoncé le 15 octobre 2026</span></p>
+
+      <p><strong class="runin">Ce que c’est.</strong> Le modèle de code open-weight de Meta, Muse Spark Open (816 milliards de paramètres, 42 milliards actifs par token via architecture mixture-of-experts, fenêtre de contexte d'un million de tokens), peut désormais être déployé sur un endpoint SageMaker dans votre propre compte AWS, sans gérer l'infrastructure de service.</p>
+      <p><strong class="runin">Pour quoi faire.</strong> Pour une agence de développement qui traite du code propriétaire ou des données sensibles, héberger le modèle dans son propre environnement AWS permet de garder le code hors des serveurs d'un fournisseur IA tiers. La fenêtre d'un million de tokens permet d'envoyer un projet complet, dépendances incluses.</p>
+      <p><strong class="runin">Prix.</strong> non précisé par la source</p>
+      <p><strong class="runin">Limites.</strong> Infrastructure requise très significative : la variante NVFP4 nécessite une instance ml.p5e.48xlarge, la variante BF16 une ml.p6-b300.48xlarge. Coût réservé aux équipes techniques avec un budget cloud conséquent. Modèle orienté code, pas usage général. Canada inclus dans la disponibilité AWS si la région est activée sur votre compte.</p>
+      <p class="src">Sources&nbsp;: <a class="ref" href="#src-2026-10-19-3" aria-label="Source 3 : AWS — Machine Learning Blog">3</a></p>
+    </article>
+  </section>
+
+  <section class="block" id="cas-usage" aria-labelledby="h-cas-2026-10-19">
+    <h2 class="rubric" id="h-cas-2026-10-19">Cas d’usage</h2>
+    <h3 class="item-title">Automatiser les tâches textuelles répétitives d'une agence de services avec des agents IA</h3>
+    <p><strong class="runin">Le problème.</strong> Les agences de services — gestion, conseil, immobilier, juridique — passent une partie significative de leur temps à répondre aux mêmes questions, à rédiger des comptes rendus périodiques ou à envoyer des relances. Ces tâches sont prévisibles mais chronophages, et leur volume empêche de se concentrer sur les dossiers qui nécessitent un vrai jugement.</p>
+    <p><strong class="runin">La démarche.</strong> 1. Recenser les 5 à 10 questions ou documents les plus récurrents (ex. : questions sur le dépôt de garantie, relances de paiement, points de situation trimestriels, notifications d'échéances réglementaires). 2. Constituer une base de connaissances interne : modèles de réponses validés, procédures maison, clauses types. 3. Construire un agent par type de tâche en l'alimentant avec cette base, en commençant par les cas les plus simples et les plus fréquents. 4. Prévoir une étape de relecture humaine avant tout envoi à un tiers sur les cas sensibles. 5. Si l'agent répond directement à des clients, l'identifier explicitement comme IA — obligation en vigueur dans l'UE depuis le 2 août 2026 selon la source.</p>
+    <p><strong class="runin">Les outils.</strong> Plateforme d'automatisation comme n8n (C3) pour l'orchestration des étapes et des déclencheurs ; modèle de langue accessible via API pour la génération de texte.</p>
+    <p><strong class="runin">L’effort.</strong> Moyen : quelques jours pour structurer la base de connaissances et configurer les premiers workflows, puis itérations progressives au fil des retours terrain.</p>
+    <p><strong class="runin">Le résultat attendu.</strong> Réduction du temps passé sur les tâches textuelles répétitives, réponses plus homogènes et moins d'oublis sur les relances ; les collaborateurs se concentrent sur les dossiers complexes.</p>
+    <p><strong class="runin">Limites.</strong> La qualité des réponses dépend directement de la qualité de la base de connaissances. L'agent ne remplace pas le jugement humain sur les cas ambigus ou à fort enjeu. L'obligation d'identification comme IA mentionnée dans la source s'applique en Europe (AI Act) ; vérifier la réglementation locale applicable au Canada et dans d'autres pays francophones.</p>
+    <p class="src">Sources&nbsp;: <a class="ref" href="#src-2026-10-19-4" aria-label="Source 4 : Journal du Net">4</a> <a class="ref" href="#src-2026-10-19-5" aria-label="Source 5 : n8n — Blog">5</a></p>
+  </section>
+
+  <section class="block" id="depot-github" aria-labelledby="h-depot-2026-10-19">
+    <h2 class="rubric" id="h-depot-2026-10-19">Le dépôt GitHub</h2>
+    <h3 class="item-title" translate="no">Hybirdss/Hycli</h3>
+    <p><strong class="runin">À quoi il sert.</strong> Transforme n'importe quel site web en interface CLI et en serveur MCP utilisable par un agent IA. L'agent peut lire, rechercher, créer ou modifier des contenus sur des sites où vous êtes déjà connecté — sans que vos cookies soient transmis au modèle de langue. Potentiellement utile pour automatiser des tâches sur des outils SaaS qui n'exposent pas d'API officielle.</p>
+    <p><strong class="runin">Prérequis.</strong> Node.js (pour le dashboard), Rust et Cargo (pour la compilation). Un navigateur local avec session active sur les sites cibles.</p>
+    <p><strong class="runin">Licence.</strong> Apache-2.0</p>
+    <p><strong class="runin">Maintenance.</strong> Dernier push et release v0.1.0 publiés récemment selon la source — projet très récent, à surveiller avant de s'appuyer dessus en production.</p>
+    <p><strong class="runin">Difficulté.</strong> moyenne</p>
+    <p><strong class="runin">Limites.</strong> Projet en v0.1.0 : API et comportement susceptibles de changer sans avertissement. Nécessite un navigateur local ouvert avec session active — ne convient pas aux environnements serveur sans interface graphique. Première release seulement ; base de code non auditée.</p>
+    <p class="src">Sources&nbsp;: <a class="ref" href="#src-2026-10-19-6" aria-label="Source 6 : GitHub">6</a></p>
+  </section>
+
+  <section class="block" id="en-bref" aria-labelledby="h-bref-2026-10-19">
+    <h2 class="rubric" id="h-bref-2026-10-19">En bref</h2>
+    <ul class="briefs">
+      <li id="bref-1">Anthropic crée l'Anthropic Public Benefit Fund : 5 % de ses actions y seront affectées (sous réserve d'approbation des actionnaires), avec 2 % supplémentaires par palier de hausse de valorisation de 50 %. Combiné aux engagements existants des fondateurs et des employés, environ 20 % des actions seraient consacrées à des objectifs d'intérêt général selon la source primaire. <span class="src-inline">(<a class="ref" href="#src-2026-10-19-7" aria-label="Source 7 : Anthropic — News (sitemap)">7</a><a class="ref" href="#src-2026-10-19-8" aria-label="Source 8 : TechCrunch — AI">8</a>)</span></li>
+      <li id="bref-2">Selon Ars Technica, Anthropic a accordé à METR — organisation spécialisée dans l'évaluation des risques IA, ayant déjà travaillé avec OpenAI, Google et Meta — un accès « similaire à celui d'un employé », avec une équipe intégrée dans ses locaux et un accès à son infrastructure interne. La supervision externe des modèles frontière commence à prendre une forme opérationnelle. <span class="src-inline">(<a class="ref" href="#src-2026-10-19-9" aria-label="Source 9 : Ars Technica — AI">9</a>)</span></li>
+      <li id="bref-3">Selon MIT Technology Review, des chercheurs ont laissé des agents basés sur Claude Opus 4.7 sans consigne pendant 30 heures dans un environnement simulé : ils ont exploré spontanément, établi des objectifs personnels, et les agents ayant eu cette période libre ont ensuite surpassé des copies fraîches sur des tâches assignées — un résultat qui interroge sur la valeur de l'exploration non dirigée dans l'entraînement des agents. <span class="src-inline">(<a class="ref" href="#src-2026-10-19-10" aria-label="Source 10 : MIT Technology Review — AI">10</a>)</span></li>
+      <li id="bref-4">Google Developers Blog rappelle une règle simple pour évaluer un agent IA : formulez ce que l'agent doit accomplir sous forme de critère vérifiable (entrée, action attendue, délai, format de sortie) avant de le déployer, plutôt que de vous fier à une impression visuelle sur quelques exemples. <span class="src-inline">(<a class="ref" href="#src-2026-10-19-11" aria-label="Source 11 : Google Developers Blog">11</a>)</span></li>
+    </ul>
+  </section>
+
+
+
+<section class="share" id="partager-2026-10-19" aria-labelledby="h-partager-2026-10-19" data-share data-share-url="https://evolvia-agency.github.io/veille-ia/2026-10-19/" data-share-title="Agent IA en production : les échecs silencieux sont les plus dangereux" data-share-text="Évaluation structurée des agents, recettes ADK de Google, et un modèle de code open-weight à héberger soi-même.">
+  <h2 class="share-title" id="h-partager-2026-10-19">Partager cette édition</h2>
+  <p class="share-hint">Lecture libre, sans compte : la personne qui reçoit le lien lit l’édition tout de suite.</p>
+  <div class="share-actions">
+    <button type="button" class="share-btn share-main" data-share-native hidden>Partager…</button>
+    <button type="button" class="share-btn" data-share-copy hidden>Copier le lien</button>
+    <a class="share-btn" href="mailto:?subject=Le%20Levier%20IA%C2%A0%3A%20Agent%20IA%20en%20production%20%3A%20les%20%C3%A9checs%20silencieux%20sont%20les%20plus%20dangereux&body=Agent%20IA%20en%20production%20%3A%20les%20%C3%A9checs%20silencieux%20sont%20les%20plus%20dangereux%0A%0A%C3%89valuation%20structur%C3%A9e%20des%20agents%2C%20recettes%20ADK%20de%20Google%2C%20et%20un%20mod%C3%A8le%20de%20code%20open-weight%20%C3%A0%20h%C3%A9berger%20soi-m%C3%AAme.%0A%0A%C3%80%20lire%20ici%C2%A0%3A%20https%3A%2F%2Fevolvia-agency.github.io%2Fveille-ia%2F2026-10-19%2F%0A">Courriel</a>
+    <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevolvia-agency.github.io%2Fveille-ia%2F2026-10-19%2F" target="_blank" rel="noopener noreferrer">LinkedIn<span class="sr-only"> (nouvel onglet)</span></a>
+    <a class="share-btn" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolvia-agency.github.io%2Fveille-ia%2F2026-10-19%2F" target="_blank" rel="noopener noreferrer">Facebook<span class="sr-only"> (nouvel onglet)</span></a>
+    <a class="share-btn" href="https://wa.me/?text=Agent%20IA%20en%20production%20%3A%20les%20%C3%A9checs%20silencieux%20sont%20les%20plus%20dangereux%20https%3A%2F%2Fevolvia-agency.github.io%2Fveille-ia%2F2026-10-19%2F" target="_blank" rel="noopener noreferrer">WhatsApp<span class="sr-only"> (nouvel onglet)</span></a>
+  </div>
+  <p class="share-link">Lien de l’édition&nbsp;: <a class="share-url" href="https://evolvia-agency.github.io/veille-ia/2026-10-19/" translate="no">evolvia-agency.github.io/veille-ia/2026-10-19/</a></p>
+  <p class="share-status" role="status" data-share-status></p>
+</section>
+
+  <section class="block sources" id="sources" aria-labelledby="h-sources-2026-10-19">
+    <h2 class="rubric" id="h-sources-2026-10-19">Sources</h2>
+    <ol class="source-list">
+      <li id="src-2026-10-19-1" value="1">
+        <a href="https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/" rel="noopener noreferrer">Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore</a>
+        <span class="source-meta"><span class="org">AWS — Machine Learning Blog</span><span class="host" translate="no">aws.amazon.com</span><span>16 octobre 2026</span><span>source primaire</span></span>
+      </li>
+      <li id="src-2026-10-19-2" value="2">
+        <a href="https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/" rel="noopener noreferrer">Three layers, one repo: a tour of google/adk-recipes</a>
+        <span class="source-meta"><span class="org">Google Developers Blog</span><span class="host" translate="no">developers.googleblog.com</span><span>15 octobre 2026</span><span>source primaire</span></span>
+      </li>
+      <li id="src-2026-10-19-3" value="3">
+        <a href="https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/" rel="noopener noreferrer">Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart</a>
+        <span class="source-meta"><span class="org">AWS — Machine Learning Blog</span><span class="host" translate="no">aws.amazon.com</span><span>15 octobre 2026</span><span>source primaire</span></span>
+      </li>
+      <li id="src-2026-10-19-4" value="4">
+        <a href="https://www.journaldunet.com/start-up/1556771-gestion-locative-construire-ses-agents-ia-pour-gagner-du-temps-et-se-demarquer/" rel="noopener noreferrer">Gestion locative : construire ses agents IA pour gagner du temps et se démarquer</a>
+        <span class="source-meta"><span class="org">Journal du Net</span><span class="host" translate="no">journaldunet.com</span><span>19 octobre 2026</span><span>source secondaire</span></span>
+      </li>
+      <li id="src-2026-10-19-5" value="5">
+        <a href="https://blog.n8n.io/enterprise-workflow-automation/" rel="noopener noreferrer">12 Best Enterprise Workflow Automation Platforms</a>
+        <span class="source-meta"><span class="org">n8n — Blog</span><span class="host" translate="no">blog.n8n.io</span><span>16 octobre 2026</span><span>source primaire</span></span>
+      </li>
+      <li id="src-2026-10-19-6" value="6">
+        <a href="https://github.com/Hybirdss/Hycli" rel="noopener noreferrer">Hybirdss/Hycli</a>
+        <span class="source-meta"><span class="org">GitHub</span><span class="host" translate="no">github.com</span><span>19 octobre 2026</span><span>source primaire</span></span>
+      </li>
+      <li id="src-2026-10-19-7" value="7">
+        <a href="https://www.anthropic.com/news/public-benefit-fund" rel="noopener noreferrer">Investing in the public benefit</a>
+        <span class="source-meta"><span class="org">Anthropic — News (sitemap)</span><span class="host" translate="no">anthropic.com</span><span>18 octobre 2026</span><span>source primaire</span></span>
+      </li>
+      <li id="src-2026-10-19-8" value="8">
+        <a href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/" rel="noopener noreferrer">Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</a>
+        <span class="source-meta"><span class="org">TechCrunch — AI</span><span class="host" translate="no">techcrunch.com</span><span>18 octobre 2026</span><span>source secondaire</span></span>
+      </li>
+      <li id="src-2026-10-19-9" value="9">
+        <a href="https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/" rel="noopener noreferrer">Anthropic gives outside AI watchdog “employee-like” access</a>
+        <span class="source-meta"><span class="org">Ars Technica — AI</span><span class="host" translate="no">arstechnica.com</span><span>18 octobre 2026</span><span>source secondaire</span></span>
+      </li>
+      <li id="src-2026-10-19-10" value="10">
+        <a href="https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/" rel="noopener noreferrer">AI researchers stranded Claude on a virtual desert island. It started to “play.”</a>
+        <span class="source-meta"><span class="org">MIT Technology Review — AI</span><span class="host" translate="no">technologyreview.com</span><span>19 octobre 2026</span><span>source secondaire</span></span>
+      </li>
+      <li id="src-2026-10-19-11" value="11">
+        <a href="https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/" rel="noopener noreferrer">Evaluating AI agents: moving past the vibe check</a>
+        <span class="source-meta"><span class="org">Google Developers Blog</span><span class="host" translate="no">developers.googleblog.com</span><span>15 octobre 2026</span><span>source primaire</span></span>
+      </li>
+    </ol>
+    <p class="note">Statuts&nbsp;: <em>annoncé</em>, pas encore utilisable ; <em>accessible</em>, utilisable aujourd’hui par le public visé ; <em>accès limité</em>, bêta, liste d’attente ou offres restreintes ; <em>affirmation commerciale</em>, promesse que les sources ne permettent pas de vérifier.</p>
+  </section>
+</article>
+</div>
+<nav class="pager" aria-label="Autres éditions">
+<a class="pager-older" href="../2026-10-17/" rel="prev"><span class="pager-label">Édition précédente</span> <span class="pager-date">Samedi 17 octobre 2026</span></a><a class="pager-newer" href="../2026-10-20/" rel="next"><span class="pager-label">Édition suivante</span> <span class="pager-date">Mardi 20 octobre 2026</span></a>  <a class="pager-all" href="../archives/">Toutes les éditions</a>
+</nav>
+</main>
+<footer class="wrap footer">
+  <p><span translate="no">Le Levier IA</span>, Tanzer. Toute l'actualité de l'IA qui compte, trois fois par semaine, en quelques minutes.</p>
+  <p>Lecture libre, sans compte ni publicité. Pour faire découvrir la newsletter, partagez son adresse&nbsp;: <a href="https://evolvia-agency.github.io/veille-ia/" translate="no">evolvia-agency.github.io/veille-ia</a>.</p>
+  <p>Chaque information renvoie à ses sources. Les outils présentés ne sont pas testés par la rédaction : leur statut reflète ce que disent les sources citées. <a href="../methode/">Comment les éditions sont préparées et vérifiées</a>.</p>
+</footer>
+</body>
+</html>
