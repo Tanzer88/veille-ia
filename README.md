@@ -2,9 +2,9 @@
 
 Accessible sans compte :
 
-- **La newsletter (toutes les éditions)** : https://tanzer88.github.io/veille-ia/
-- **Dernière édition (6 novembre 2026)** : https://tanzer88.github.io/veille-ia/2026-11-06/
-- **Le flux à intégrer au site** : https://tanzer88.github.io/veille-ia/editions.json
+- **Dernière édition (6 novembre 2026)** : [editions/2026-11-06.md](editions/2026-11-06.md)
+- **Toutes les éditions** : dossier [editions/](editions/)
+- **Le flux à intégrer au site** : https://raw.githubusercontent.com/Tanzer88/veille-ia/main/editions.json
 
 Chaque édition (lundi, mercredi, vendredi) contient l'actualité IA, puis, **à part**, un cas d'usage Evolvia pour un
 métier précis (pharmacie, BTP, boulangerie, cabinet médical…).
@@ -17,12 +17,12 @@ Le programme qui produit la newsletter est dans le dépôt privé https://github
 1. Télécharger [`tester/prompt-2026-11-06.md`](tester/prompt-2026-11-06.md) (consignes + sources du 6 novembre).
 2. Sur https://claude.ai, joindre le fichier et écrire : « Suis exactement ces consignes et rédige l'édition. »
 3. Puis : « Présente cette édition comme un article de blog, sans rien ajouter. »
-4. Comparer avec l'édition publiée du 6 novembre (lien plus haut).
+4. Comparer avec [l'édition publiée du 6 novembre](editions/2026-11-06.md).
 
 ## Intégration au site
 
 Depuis le 2026-11-06, chaque construction du site publie `editions.json` à la racine :
-`https://tanzer88.github.io/veille-ia/editions.json` (site en lecture libre seulement ; jamais bloquant pour la
+`https://raw.githubusercontent.com/Tanzer88/veille-ia/main/editions.json` (site en lecture libre seulement ; jamais bloquant pour la
 parution). Il contient toutes les éditions publiées (365 au plus), de la plus récente à la plus ancienne.
 
 ## Usage prévu
@@ -52,7 +52,7 @@ Faire remonter evolvia-agence.com sur les recherches francophones « automatisat
 ```json
 {
   "version": 1, "publication": "Le Levier IA", "tagline": "…", "language": "fr",
-  "generated_at": "ISO 8601", "site": "https://tanzer88.github.io/veille-ia",
+  "generated_at": "ISO 8601", "site": "https://github.com/Tanzer88/veille-ia",
   "statuses": {"annoncé": "…", "accessible": "…", "accès limité": "…", "affirmation commerciale": "…"},
   "editions": [{
     "date": "2026-11-06", "slug": "2026-11-06", "published_at": "ISO 8601",
